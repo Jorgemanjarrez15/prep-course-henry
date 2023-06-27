@@ -1,2 +1,2 @@
 # prep-course-henry
-Este es un repo del prep course de henry
+Este proyecto es una prueba de como crear un repo y clonarlo desde github a mi computadora
